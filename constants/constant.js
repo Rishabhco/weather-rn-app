@@ -1,1 +1,0 @@
-export const apiKey = process.env.REACT_WEATHER_API_KEY;
